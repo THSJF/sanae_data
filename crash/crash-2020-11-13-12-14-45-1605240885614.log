@@ -1,0 +1,7 @@
+java.lang.NoSuchMethodException: com.meng.gameData.TouHou.Faith.<init>(com.meng.adapter.BotWrapperEntity)
+	at java.lang.Class.getConstructor0(Unknown Source)
+	at java.lang.Class.getConstructor(Unknown Source)
+	at com.meng.modules.ModuleManager.load(ModuleManager.java:69)
+	at com.meng.modules.ModuleManager.load(ModuleManager.java:63)
+	at com.meng.modules.ModuleManager.load(ModuleManager.java:52)
+	at com.meng.SJFMain.main(SJFMain.java:41)
