@@ -1,174 +1,306 @@
 {
-	"groupConfigs":[
-		{
-			"n":"564453348",
-			"f1":-1
+	"groupConfigs":{
+		"979028763":{
+			"enabled":[
+				"MAIN_SWITCH",
+				"RECALL",
+				"WORDSTOCK",
+				"ADMIN",
+				"AIM_MESSAGE",
+				"MEMBER_CHANGE",
+				"MESSAGE_REFUSE",
+				"GROUP_COUNT_CHART",
+				"NUMBER_PROCESS",
+				"DICE",
+				"MORNING",
+				"QA",
+				"REPEATER",
+				"REPORT",
+				"REFLEX_COMMAND",
+				"TIME_TASK"
+			]
 		},
-		{
-			"n":"979028763",
-			"f1":-1
+		"202324718":{
+			"enabled":[
+				"MAIN_SWITCH",
+				"RECALL",
+				"WORDSTOCK",
+				"ADMIN",
+				"AIM_MESSAGE",
+				"MEMBER_CHANGE",
+				"MESSAGE_REFUSE",
+				"GROUP_COUNT_CHART",
+				"NUMBER_PROCESS",
+				"DICE",
+				"MORNING",
+				"QA",
+				"REPEATER",
+				"REPORT",
+				"REFLEX_COMMAND",
+				"TIME_TASK"
+			]
 		},
-		{
-			"n":"306639428",
-			"f1":-1
+		"306639428":{
+			"enabled":[
+				"MAIN_SWITCH",
+				"RECALL",
+				"WORDSTOCK",
+				"ADMIN",
+				"AIM_MESSAGE",
+				"MEMBER_CHANGE",
+				"MESSAGE_REFUSE",
+				"GROUP_COUNT_CHART",
+				"NUMBER_PROCESS",
+				"DICE",
+				"MORNING",
+				"QA",
+				"REPEATER",
+				"REPORT",
+				"REFLEX_COMMAND",
+				"TIME_TASK"
+			]
 		},
-		{
-			"n":"259614522",
-			"f1":-1
+		"259614522":{
+			"enabled":[
+				"MAIN_SWITCH",
+				"RECALL",
+				"WORDSTOCK",
+				"ADMIN",
+				"AIM_MESSAGE",
+				"MEMBER_CHANGE",
+				"MESSAGE_REFUSE",
+				"GROUP_COUNT_CHART",
+				"NUMBER_PROCESS",
+				"DICE",
+				"MORNING",
+				"QA",
+				"REPEATER",
+				"REPORT",
+				"REFLEX_COMMAND",
+				"TIME_TASK"
+			]
 		},
-		{
-			"n":"739019465",
-			"f1":-1
+		"316669817":{
+			"enabled":[
+				"MAIN_SWITCH",
+				"RECALL",
+				"WORDSTOCK",
+				"ADMIN",
+				"AIM_MESSAGE",
+				"MEMBER_CHANGE",
+				"MESSAGE_REFUSE",
+				"GROUP_COUNT_CHART",
+				"NUMBER_PROCESS",
+				"DICE",
+				"MORNING",
+				"QA",
+				"REPEATER",
+				"REPORT",
+				"REFLEX_COMMAND",
+				"TIME_TASK"
+			]
 		},
-		{
-			"n":"793236161",
-			"f1":-33
+		"793236161":{
+			"enabled":[
+				"MAIN_SWITCH",
+				"RECALL",
+				"WORDSTOCK",
+				"ADMIN",
+				"AIM_MESSAGE",
+				"MEMBER_CHANGE",
+				"MESSAGE_REFUSE",
+				"GROUP_COUNT_CHART",
+				"NUMBER_PROCESS",
+				"DICE",
+				"MORNING",
+				"QA",
+				"REPEATER",
+				"REPORT",
+				"REFLEX_COMMAND",
+				"TIME_TASK"
+			]
 		},
-		{
-			"n":"690571939",
-			"f1":-1
+		"690571939":{
+			"enabled":[
+				"MAIN_SWITCH",
+				"RECALL",
+				"WORDSTOCK",
+				"ADMIN",
+				"AIM_MESSAGE",
+				"MEMBER_CHANGE",
+				"MESSAGE_REFUSE",
+				"GROUP_COUNT_CHART",
+				"NUMBER_PROCESS",
+				"DICE",
+				"MORNING",
+				"QA",
+				"REPEATER",
+				"REPORT",
+				"REFLEX_COMMAND",
+				"TIME_TASK"
+			]
 		},
-		{
-			"n":"1037177816",
-			"f1":-1
+		"617745343":{
+			"enabled":[
+				"MAIN_SWITCH",
+				"RECALL",
+				"WORDSTOCK",
+				"ADMIN",
+				"AIM_MESSAGE",
+				"MEMBER_CHANGE",
+				"MESSAGE_REFUSE",
+				"GROUP_COUNT_CHART",
+				"NUMBER_PROCESS",
+				"DICE",
+				"MORNING",
+				"QA",
+				"REPEATER",
+				"REPORT",
+				"REFLEX_COMMAND",
+				"TIME_TASK"
+			]
 		},
-		{
-			"n":"431483450",
-			"f1":-1
+		"431483450":{
+			"enabled":[
+				"MAIN_SWITCH",
+				"RECALL",
+				"WORDSTOCK",
+				"ADMIN",
+				"AIM_MESSAGE",
+				"MEMBER_CHANGE",
+				"MESSAGE_REFUSE",
+				"GROUP_COUNT_CHART",
+				"NUMBER_PROCESS",
+				"DICE",
+				"MORNING",
+				"QA",
+				"REPEATER",
+				"REPORT",
+				"REFLEX_COMMAND",
+				"TIME_TASK"
+			]
 		},
-		{
-			"n":"109411658",
-			"f1":-1
+		"1004984648":{
+			"enabled":[
+				"MAIN_SWITCH",
+				"RECALL",
+				"WORDSTOCK",
+				"ADMIN",
+				"AIM_MESSAGE",
+				"MEMBER_CHANGE",
+				"MESSAGE_REFUSE",
+				"GROUP_COUNT_CHART",
+				"NUMBER_PROCESS",
+				"DICE",
+				"MORNING",
+				"QA",
+				"REPEATER",
+				"REPORT",
+				"REFLEX_COMMAND",
+				"TIME_TASK"
+			]
 		},
-		{
-			"n":"984951418",
-			"f1":-1
+		"959615179":{
+			"enabled":[
+				"MAIN_SWITCH",
+				"RECALL",
+				"WORDSTOCK",
+				"ADMIN",
+				"AIM_MESSAGE",
+				"MEMBER_CHANGE",
+				"MESSAGE_REFUSE",
+				"GROUP_COUNT_CHART",
+				"NUMBER_PROCESS",
+				"DICE",
+				"MORNING",
+				"QA",
+				"REPEATER",
+				"REPORT",
+				"REFLEX_COMMAND",
+				"TIME_TASK"
+			]
 		},
-		{
-			"n":"568682935",
-			"f1":-1
+		"297456833":{
+			"enabled":[
+				"MAIN_SWITCH",
+				"RECALL",
+				"WORDSTOCK",
+				"ADMIN",
+				"AIM_MESSAGE",
+				"MEMBER_CHANGE",
+				"MESSAGE_REFUSE",
+				"GROUP_COUNT_CHART",
+				"NUMBER_PROCESS",
+				"DICE",
+				"MORNING",
+				"QA",
+				"REPEATER",
+				"REPORT",
+				"REFLEX_COMMAND",
+				"TIME_TASK"
+			]
 		},
-		{
-			"n":"319067216",
-			"f1":-1
+		"101344113":{
+			"enabled":[
+				"MAIN_SWITCH",
+				"RECALL",
+				"WORDSTOCK",
+				"ADMIN",
+				"AIM_MESSAGE",
+				"MEMBER_CHANGE",
+				"MESSAGE_REFUSE",
+				"GROUP_COUNT_CHART",
+				"NUMBER_PROCESS",
+				"DICE",
+				"MORNING",
+				"QA",
+				"REPEATER",
+				"REPORT",
+				"REFLEX_COMMAND",
+				"TIME_TASK"
+			]
 		},
-		{
-			"n":"1075494796",
-			"f1":-1
+		"728439607":{
+			"enabled":[
+				"MAIN_SWITCH",
+				"RECALL",
+				"WORDSTOCK",
+				"ADMIN",
+				"AIM_MESSAGE",
+				"MEMBER_CHANGE",
+				"MESSAGE_REFUSE",
+				"GROUP_COUNT_CHART",
+				"NUMBER_PROCESS",
+				"DICE",
+				"MORNING",
+				"QA",
+				"REPEATER",
+				"REPORT",
+				"REFLEX_COMMAND",
+				"TIME_TASK"
+			]
 		},
-		{
-			"n":"385292256",
-			"f1":-1
-		},
-		{
-			"n":"905192035",
-			"f1":-1
-		},
-		{
-			"n":"1047229554",
-			"f1":-1
-		},
-		{
-			"n":"728439607",
-			"f1":-1
-		},
-		{
-			"n":"786215936",
-			"f1":-1
-		},
-		{
-			"n":"973510746",
-			"f1":-1
-		},
-		{
-			"n":"702276934",
-			"f1":-1
-		},
-		{
-			"n":"243298910",
-			"f1":-1
-		},
-		{
-			"n":"202324718",
-			"f1":-1
-		},
-		{
-			"n":"901810148",
-			"f1":-1
-		},
-		{
-			"n":"875388105",
-			"f1":-1
-		},
-		{
-			"n":"692321831",
-			"f1":-1
-		},
-		{
-			"n":"316669817",
-			"f1":-1
-		},
-		{
-			"n":"976915347",
-			"f1":-1
-		},
-		{
-			"n":"312342896",
-			"f1":-1
-		},
-		{
-			"n":"617745343",
-			"f1":-3
-		},
-		{
-			"n":"1004984648",
-			"f1":-1
-		},
-		{
-			"n":"807242547",
-			"f1":-1
-		},
-		{
-			"n":"424838564",
-			"f1":-1
-		},
-		{
-			"n":"660202799",
-			"f1":-1
-		},
-		{
-			"n":"859561731",
-			"f1":-1
-		},
-		{
-			"n":"959615179",
-			"f1":-1
-		},
-		{
-			"n":"715563231",
-			"f1":-1
-		},
-		{
-			"n":"297456833",
-			"f1":-1
-		},
-		{
-			"n":"101344113",
-			"f1":-1
-		},
-		{
-			"n":"1055451987",
-			"f1":-1
-		},
-		{
-			"n":"725891775",
-			"f1":-1
-		},
-		{
-			"n":"1070848429",
-			"f1":-1
+		"243298910":{
+			"enabled":[
+				"MAIN_SWITCH",
+				"RECALL",
+				"WORDSTOCK",
+				"ADMIN",
+				"AIM_MESSAGE",
+				"MEMBER_CHANGE",
+				"MESSAGE_REFUSE",
+				"GROUP_COUNT_CHART",
+				"NUMBER_PROCESS",
+				"DICE",
+				"MORNING",
+				"QA",
+				"REPEATER",
+				"REPORT",
+				"REFLEX_COMMAND",
+				"TIME_TASK"
+			]
 		}
-	],
+	},
 	"blockOnlyQQ":[
 		"1012539034",
 		"1905073992",
@@ -214,6 +346,7 @@
 		"1939299202",
 		"2764626013",
 		"1548469264",
+		"850251184",
 		"3306797959",
 		"2185144736",
 		"509084615",
@@ -247,6 +380,7 @@
 		"830709768",
 		"574378288",
 		"773636434",
+		"109411658",
 		"859682537",
 		"924158541",
 		"973510746",
@@ -1355,8 +1489,7 @@
 		"1310144530":"龙王在感叹这群不够龙的时候突然发现因为他太龙所以",
 		"3466988704":"图书被绿帽子草过",
 		"1054539474":"[
-			CQ:emoji,
-			id\u003d127807
+			\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCQ:emoji,			\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\tid\u003d127807\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t
 		]",
 		"784032435":"小小",
 		"2281954831":"桃子",
@@ -1366,8 +1499,7 @@
 		"1196993358":"爸爸",
 		"768210910":"霸霸",
 		"1347676235":"[
-			CQ:emoji,
-			id\u003d128116
+			\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCQ:emoji,			\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\tid\u003d128116\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t
 		]",
 		"1615035994":"玻璃剑姐姐~",
 		"1095619926":"人间之里居民",
@@ -1395,8 +1527,7 @@
 		"2848165371":"古明地恋",
 		"1273812437":"爷爷你",
 		"462249910":"[
-			CQ:emoji,
-			id\u003d128116
+			\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCQ:emoji,			\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\tid\u003d128116\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t
 		]",
 		"1827077850":"打stg的屑天子",
 		"3511310199":"永远喜欢星瓯和1up的MTS",
@@ -1411,8 +1542,7 @@
 		"1353730786":"烈海王复活",
 		"1523884678":"我自己",
 		"2910952404":"[
-			CQ:face,
-			id\u003d185
+			\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCQ:face,			\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\tid\u003d185\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t
 		]",
 		"1391857313":"哼孙晋芳算什么，我也能芳",
 		"2053119544":"键山雏觉得你们",
@@ -1423,7 +1553,7 @@
 		"2410808300":"帕琪",
 		"1789706995":"铃瑚老婆",
 		"1787833551":"09",
-		"2484713081":"jrz",
+		"2484713081":"我爬",
 		"1945471892":"哆来咪",
 		"3072331585":"慈父",
 		"1252440260":"减数分裂深海色",
@@ -1479,8 +1609,7 @@
 		"3273266137":"遗传紺lnn后觉得",
 		"1764751852":"憨批",
 		"2789550209":"[
-			CQ:face,
-			id\u003d107
+			\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCQ:face,			\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\tid\u003d107\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t
 		]",
 		"3272114124":"浴霸陌路",
 		"2487690369":"海绵宝宝七枷社儿",
@@ -1503,8 +1632,7 @@
 		"2253846152":"群主强上乔碧萝，发现",
 		"3299581044":"蓝",
 		"540601562":"[
-			CQ:emoji,
-			id\u003d128405
+			\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCQ:emoji,			\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\tid\u003d128405\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t
 		]",
 		"2947885398":"靓仔",
 		"1822455876":"璋卫兵",
@@ -1521,8 +1649,7 @@
 		"2102631341":"快乐的囧仙子",
 		"1090953734":"神德",
 		"3139595809":"[
-			CQ:at,
-			qq\u003d2528419891
+			\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCQ:at,			\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\tqq\u003d2528419891\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t
 		]",
 		"1976871646":"铃仙⑨号",
 		"2956832566":"静叶厨一号",
@@ -1555,7 +1682,7 @@
 		"1289938381":"笋子",
 		"1492083648":"EVA",
 		"1033317031":"盆姐姐亲 老 逼",
-		"1157291978":"扎狗头（√）",
+		"1157291978":"卖煤气",
 		"1005304537":"博美灵梦（确信",
 		"2421035385":"司马东西",
 		"2622330229":"小碎骨",
@@ -1590,8 +1717,7 @@
 		"572085145":"可爱中律影",
 		"1841955402":"碗哥",
 		"1192178823":"[
-			CQ:at,
-			qq\u003d1157291978
+			\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCQ:at,			\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\tqq\u003d1157291978\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t
 		]",
 		"1955357957":"仓鼠",
 		"916184338":"囧仙儿",
@@ -1613,8 +1739,7 @@
 		"1005028931":"Roie",
 		"577358285":"__waii__pic",
 		"1096896708":"[
-			CQ:emoji,
-			id\u003d128116
+			\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCQ:emoji,			\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\tid\u003d128116\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t
 		]",
 		"3474688700":"遗传难道不会不是没有说过自己",
 		"3098523909":"??",
@@ -1645,11 +1770,9 @@
 		"3396459928":"太子sama",
 		"2026582306":"幻想乡最强！",
 		"1246045615":"[
-			CQ:face,
-			id\u003d77
+			\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCQ:face,			\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\tid\u003d77\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t
 		][
-			CQ:face,
-			id\u003d13
+			\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tCQ:face,			\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\tid\u003d13\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t
 		]",
 		"1782801832":"9↗9↘6↗1↘",
 		"2924154278":"老公",
@@ -1662,11 +1785,10 @@
 	},
 	"welcomeMap":{
 		"793236161":"欢迎来到\n吃药图书草粉丝群\n吃药图书lsp粉丝群\n吃药图书MC粉丝群\n吃药图书自闭粉丝群 \n吃药图书学习粉丝群 \n吃药图书龙图粉丝群 \n吃药图书骚气粉丝群 \n吃药图书文爱粉丝群\n吃药图书关掉粉丝群\n吃药图书透我粉丝群\n吃药图书学历史粉丝群\n吃药图书背古诗粉丝群\n吃药图书云备份粉丝群\n吃药图书死宛脸粉丝群 \n吃药图书同人lsp粉丝群\n吃药图书测试bot粉丝群\n吃药图书欢迎来到粉丝群\n吃药图书列文虎克粉丝群 \n吃药图书越来越多粉丝群\n吃药图书已经不能龙乐粉丝群\n吃药图书坏时代，来临力粉丝群\n吃药图书操你妈燃起来了粉丝群\n吃药图书就我不会拍照了粉丝群\n吃药图书就我没有才能了粉丝群 \n吃药图书就我不会日语了粉丝群\n吃药图书全员Airox乐乐厨粉丝群\n吃药图书老水符卡名达人了粉丝群\n吃药图书不支持的消息类型粉丝群\n吃药图书考90分跟韭菜似得粉丝群\n吃药图书发的都是什么东西粉丝群\n吃药图书全群只有我不会lstg粉丝群\n吃药图书在公告里写好多称号粉丝群\n吃药图书已经不知道是什么了粉丝群\n吃药图书只有我考不上985211粉丝群\n吃药图书全群只有我不会糊背景粉丝群\n吃药图书全群只有我不会shader粉丝群 \n吃药图书全群只有我不会render粉丝群 \n吃药图书要把这个金字塔弄齐一点粉丝群\n吃药图书就我不懂中医养生调和了粉丝群\n吃药图书你要偷偷变母然后惊艳所有人粉丝群\n吃药图书虽然高三但是数学仍是零基础：[
-			视频
+			\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t视频\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t
 		]粉丝群\n吃药图书β有点痒过去看看有1吗过来☀我们啦芜来来粉丝群",
-		"973510746":"此生无悔入东方,
-		来世愿生幻想乡",
-		"617745343":"ljyys"
+		"973510746":"此生无悔入东方,		\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t来世愿生幻想乡",
+		"617745343":"欢迎新大佬"
 	},
 	"personCfg":{
 		"1701440488":{
@@ -1822,6 +1944,9 @@
 		"2778612056":{
 			"flag":-1
 		},
+		"1802375208":{
+			"flag":-1
+		},
 		"3047613025":{
 			"flag":-1
 		},
@@ -1881,6 +2006,9 @@
 		},
 		"535712178":{
 			"flag":-1
+		},
+		"1275809751":{
+			"flag":-3
 		},
 		"3591023191":{
 			"flag":-1

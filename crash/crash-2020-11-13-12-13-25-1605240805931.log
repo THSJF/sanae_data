@@ -1,0 +1,6 @@
+java.lang.NullPointerException
+	at com.meng.tools.ExceptionCatcher.uncaughtException(ExceptionCatcher.java:42)
+	at com.meng.modules.ModuleManager.load(ModuleManager.java:81)
+	at com.meng.modules.ModuleManager.load(ModuleManager.java:63)
+	at com.meng.modules.ModuleManager.load(ModuleManager.java:52)
+	at com.meng.SJFMain.main(SJFMain.java:41)
