@@ -1,7 +1,0 @@
-java.lang.NullPointerException
-	at com.meng.adapter.SJFTX.sendGroupMessage(SJFTX.java:27)
-	at com.meng.adapter.SJFTX.sendGroupMessage(SJFTX.java:34)
-	at com.meng.modules.ModuleManager.load(ModuleManager.java:84)
-	at com.meng.modules.ModuleManager.load(ModuleManager.java:63)
-	at com.meng.modules.ModuleManager.load(ModuleManager.java:52)
-	at com.meng.SJFMain.main(SJFMain.java:41)
